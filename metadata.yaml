@@ -1,0 +1,37 @@
+_repo: The-Works-of-Alexander-Pope-Volume-2--of-10-Poetry---Volume-2_43271
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Elwin, Whitwell
+    birthdate: 1816
+    deathdate: 1900
+    gutenberg_agent_id: '35723'
+    url: http://www.gutenberg.org/2009/agents/35723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+description: ''
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 18th century'
+title: 'The Works of Alexander Pope, Volume 2 (of 10)
+
+  Poetry - Volume 2'
+url: http://www.gutenberg.org/ebooks/43271
